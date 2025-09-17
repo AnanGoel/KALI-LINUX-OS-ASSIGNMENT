@@ -1,5 +1,5 @@
 **Operating Systems Lab Assignment**  
-**Submitted by: Prateek Kumar Prasad, B.Tech CSE, Semester 5, Roll No: 2301420018**
+**Submitted by: Anant Goel, B.Tech CSE, Semester 5, Roll No: 2301420036**
 
 # Experiment 1: Process Management in OS
 
