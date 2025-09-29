@@ -9,7 +9,7 @@
 
 ### OS Assignment: Process Management in Linux
 
-This repository contains a comprehensive 5-task assignment on **process management** in Linux, completed by **Prateek Prasad** for a 5th-semester Operating Systems course. The tasks demonstrate key concepts using C system calls and interactions with the Linux kernel's process information a.k.a **`/proc`** filesystem.
+This repository contains a comprehensive 5-task assignment on **process management** in Linux, completed by **Anant Goel** for a 5th-semester Operating Systems course. The tasks demonstrate key concepts using C system calls and interactions with the Linux kernel's process information a.k.a **`/proc`** filesystem.
 
 ---
 
