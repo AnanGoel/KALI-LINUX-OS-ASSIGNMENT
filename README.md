@@ -1,8 +1,8 @@
 # 🧠 Operating Systems Lab Assignments  
-**Submitted by:** *Prateek Kumar Prasad*  
+**Submitted by:** *Anant Goel*  
 **Course:** B.Tech CSE (Data Science)  
 **Semester:** 5  
-**Roll No:** 2301420018  
+**Roll No:** 2301420036  
 
 ---
 
